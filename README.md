@@ -19,6 +19,7 @@
             1) Method : GET -> PURPOSE: GETTING ALL WORKOUTS -> ENDPOINT: /workouts -> SERVER SENDS : A LIST OF ALL WORKOUTS
         2) METHOD : POST -> PURPOSE : ADDING A NEW WORKOUT -> ENDPOINT : /workouts -> SERVER SENDS: SUCCESS MESSAGE ,DETAILS OF THE ADDED WORKOUT 
 3) METHOD : PUT - > PURPOSE : EDITING WORKOUT - > ENDPOINT : /workouts/id/ -> SERVER SENDS: Success Message, assuring the workout has been edited
+    
     4) METHOD : DELETE - > PURPOSE : DELETING WORKOUT -> ENDPOINT : workouts/id/ -> SERVER SENDS: SUCCESS MESSAGE, ASSURING WORKOUT IS DELETED
 
                                                            Sample Requests
